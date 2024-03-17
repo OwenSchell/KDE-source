@@ -9,6 +9,7 @@ function Card(props) {
                 <input type="text" placeholder="Password"/>
                 <p>Forgot your password ?</p>
                 <button>Login</button>
+                <button>Sign up</button>
             </div>
         </div>
     );
