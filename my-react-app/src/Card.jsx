@@ -10,6 +10,7 @@ function Card(props) {
                 <p>Forgot your password ?</p>
                 <button>Login</button>
                 <button>Sign up</button>
+                <button>check</button>
             </div>
         </div>
     );
